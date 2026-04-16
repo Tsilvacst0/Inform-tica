@@ -13,3 +13,8 @@ Articulação de tabela e montagem de do gráfico baseado em dados abertos de S�
 Criação de gráficos em relação a dados abertos da prefeitura de São José dos Campos
 <img width="1189" height="557" alt="image" src="https://github.com/user-attachments/assets/45fbcf4f-11bf-4fbe-89e4-ed839a75c334" />
 ## (13/03) Despesa e função no excel
+Reforço da aula do dia 12/03 de criação de gráficos em relação a dados abertos da prefeitura de São José dos Campos
+## (10/04) Fornecedores de SP com montagem de gráfico no excel
+Articulação de tabela e resposta de perguntas baseado em dados abertos de São Paulo
+<img width="475" height="442" alt="image" src="https://github.com/user-attachments/assets/46d2513d-70b5-44df-a29b-27137516c735" />
+
