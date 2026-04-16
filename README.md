@@ -6,4 +6,10 @@ Trabalho exercutado via Canva: transições, elementos gráficos e criatividade.
 https://www.canva.com/design/DAHBKYOIv7o/DiPKWY39wjq-ewn_C1rElg/edit
 ## Montagem de Gráfico pelo Excel usando dados da Prefeitura
 <img width="865" height="786" alt="image" src="https://github.com/user-attachments/assets/76519ca1-8e86-4e9b-9f6b-a09ea94639e4" />
-## Despesa e Função com Montagem de Gráfico pelo Excel usando dados da Prefeitura
+## (06/03/2026) Despesa e Função com Montagem de Gráfico pelo Excel usando dados da Prefeitura
+Articulação de tabela e montagem de do gráfico baseado em dados abertos de São José dos Campos
+<img width="1017" height="453" alt="image" src="https://github.com/user-attachments/assets/a3acd0d0-3da1-4cf8-9c5d-d5d171244301" />
+## (12/03) Despesa e montagem de gráfico no excel
+Criação de gráficos em relação a dados abertos da prefeitura de São José dos Campos
+<img width="1189" height="557" alt="image" src="https://github.com/user-attachments/assets/45fbcf4f-11bf-4fbe-89e4-ed839a75c334" />
+## (13/03) Despesa e função no excel
