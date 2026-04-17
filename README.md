@@ -22,6 +22,7 @@ Reforço da aula do dia 12/03 de criação de gráficos em relação a dados abe
 
 # (10/04) Fornecedores de SP com montagem de gráfico no excel
 Articulação de tabela e resposta de perguntas baseado em dados abertos de São Paulo
+
 pergunta 1
 <img width="521" height="37" alt="image" src="https://github.com/user-attachments/assets/f3701341-a603-4a5e-ad0f-dd067e55e972" />
 pergunta 2 
