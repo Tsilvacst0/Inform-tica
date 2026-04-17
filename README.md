@@ -30,7 +30,7 @@ pergunta 3
 <img width="306" height="270" alt="image" src="https://github.com/user-attachments/assets/4a09a34f-9417-4d0c-b65e-b8b5783ec73e" />
 pergunta 4
 <img width="407" height="347" alt="image" src="https://github.com/user-attachments/assets/9cbb86b3-e8e6-4828-b598-3f3b701a41ec" />
-pergunta 
+pergunta 5
 <img width="482" height="78" alt="image" src="https://github.com/user-attachments/assets/63b30d01-bc5a-424b-b3f9-a3f7ad1f1447" />
 # (12/04) Certiicado de conclusão de curso em Python via programa Aprenda
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/6eb004c6-eb4c-4f77-9de9-12806dfac528" />
